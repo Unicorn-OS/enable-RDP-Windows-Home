@@ -10,3 +10,8 @@ Stopped working:
 
 Discuss:  
 https://github.com/stascorp/rdpwrap/issues
+
+
+# Try: Fix
+https://github.com/stascorp/rdpwrap/issues/1454  
+https://github.com/stascorp/rdpwrap/pull/1160

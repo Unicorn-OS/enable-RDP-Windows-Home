@@ -5,7 +5,7 @@ sch: https://www.google.com/search?q=rdp+windows+home
 
 Guide: https://www.thewindowsclub.com/how-to-use-windows-10-remote-desktop-in-windows-home-rdp
 
-## Tested:
+# Tests:
 Stopped working:
 - https://www.itechtics.com/remote-desktop-windows-10-home/
 

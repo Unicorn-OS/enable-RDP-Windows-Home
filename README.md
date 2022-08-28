@@ -14,6 +14,9 @@ Discussion:
 - https://github.com/stascorp/rdpwrap/issues
 
 
-# Try: Fix
-https://github.com/stascorp/rdpwrap/issues/1454  
-https://github.com/stascorp/rdpwrap/pull/1160
+# Fixes:
+- https://github.com/stascorp/rdpwrap/issues/1454  
+tried: yes
+
+- https://github.com/stascorp/rdpwrap/pull/1160
+tried: no

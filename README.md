@@ -1,15 +1,17 @@
-# RDP-Windows-Home
-https://www.google.com/search?q=rdp+windows+home
+# enable RDP Server in Windows Home!
+Windows Home edition does not natively permit running a RDP server to manage it remotely. This solves that!
 
-- https://www.thewindowsclub.com/how-to-use-windows-10-remote-desktop-in-windows-home-rdp
+sch: https://www.google.com/search?q=rdp+windows+home
+
+Guide: https://www.thewindowsclub.com/how-to-use-windows-10-remote-desktop-in-windows-home-rdp
 
 ## Tested:
 Stopped working:
 - https://www.itechtics.com/remote-desktop-windows-10-home/
 
 
-Discuss:  
-https://github.com/stascorp/rdpwrap/issues
+Discussion:
+- https://github.com/stascorp/rdpwrap/issues
 
 
 # Try: Fix

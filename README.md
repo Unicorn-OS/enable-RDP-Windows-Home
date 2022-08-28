@@ -14,7 +14,7 @@ Discussion:
 - https://github.com/stascorp/rdpwrap/issues
 
 
-# Fixes:
+# Patch:
 - https://github.com/stascorp/rdpwrap/issues/1454  
 tried: yes
 
